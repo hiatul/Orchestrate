@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:2:1-135:12
+	xmlns:android
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:6:1-62
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:6:18-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:7:22-78
+uses-sdk
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:9:9-34
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:12:5-133:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:15:9-36
+	android:allowBackup
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.eventmanagement.Home_Screen
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:17:9-22:20
+	android:label
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:18:13-67
+activity#com.example.eventmanagement.SplashActivity
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:theme
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:40:13-81
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:39:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.eventmanagement.UserJoinEvent
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:47:1-50:12
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:48:13-69
+activity#com.example.eventmanagement.SignIn
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:51:9-56:20
+	android:theme
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:53:13-81
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:52:13-62
+activity#com.example.eventmanagement.SignUp
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:57:9-61:20
+	android:theme
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:59:13-81
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:58:13-62
+activity#com.example.eventmanagement.UserEvent
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:62:3-65:14
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:63:13-65
+activity#com.example.eventmanagement.SignUpActivity
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:70:10-73:21
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:71:13-70
+activity#com.example.eventmanagement.Admin
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:74:11-77:22
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:75:13-61
+activity#com.example.eventmanagement.CreateEvent
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:78:11-81:22
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:79:13-67
+activity#com.example.eventmanagement.NewEvent
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:82:11-85:22
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:83:13-64
+activity#com.example.eventmanagement.EventDescription
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:86:12-89:23
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:87:13-72
+activity#com.example.eventmanagement.ModifyEvent
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:91:12-94:23
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:92:13-67
+activity#com.example.eventmanagement.UserEventDescription
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:96:9-99:20
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:97:13-76
+activity#com.example.eventmanagement.JoinEvent
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:100:16-101:77
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:101:13-65
+activity#com.example.eventmanagement.ShowUsers
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:102:14-103:77
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:103:13-65
+activity#com.example.eventmanagement.Profile
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:104:18-105:75
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:105:13-63
+activity#com.example.eventmanagement.UpdateProfile
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:106:20-107:81
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:107:13-69
+activity#com.example.eventmanagement.Logout
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:108:23-109:74
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:109:13-62
+activity#com.example.eventmanagement.LoginActivity
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:110:27-111:81
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:111:13-69
+activity#com.example.eventmanagement.AdminLogout
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:112:30-113:79
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:113:13-67
+activity#com.example.eventmanagement.AboutApp
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:115:31-116:76
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:116:13-64
+activity#com.example.eventmanagement.EventSuggestion
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:117:12-118:83
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:118:13-71
+activity#com.example.eventmanagement.ForgotPassword
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:119:13-120:82
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:120:13-70
+activity#com.example.eventmanagement.Gallery
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:121:14-122:75
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:122:13-63
+activity#com.example.eventmanagement.AboutSociety
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:123:13-124:80
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:124:13-68
+activity#com.example.eventmanagement.SocietyList
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:125:14-126:79
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:126:13-67
+activity#com.example.eventmanagement.Scie
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:127:13-128:72
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:128:13-60
+activity#com.example.eventmanagement.Sae
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:129:14-130:71
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:130:13-59
+activity#com.example.eventmanagement.Iste
+ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:131:14-132:72
+	android:name
+		ADDED from C:\Users\Gurkaran singh\AndroidStudioProjects\Orchestrate\app\src\main\AndroidManifest.xml:132:13-60

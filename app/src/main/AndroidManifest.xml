@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eventmanagement"
+    android:versionCode="1"
+    android:versionName="1.0" >
+<uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Orchestrate"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.eventmanagement.Home_Screen"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar">
+
+        </activity>
+        
+        <!--  <activity
+    android:name="com.example.eventmanagement.UserJoinEvent"
+    android:parentActivityName="com.example.eventmanagement.Home" 
+      android:launchMode="singleTop" >
+ 
+    <intent-filter>
+        <action android:name="android.intent.action.SEARCH" />
+    </intent-filter>
+ 
+    <meta-data
+        android:name="android.app.searchable"
+        android:resource="@xml/searchable" />
+ 
+</activity>-->
+        <activity
+            android:name="com.example.eventmanagement.SplashActivity"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<activity
+            android:name="com.example.eventmanagement.UserJoinEvent">
+
+</activity>
+        <activity
+            android:name="com.example.eventmanagement.SignIn"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+
+
+        </activity>
+        <activity
+            android:name="com.example.eventmanagement.SignUp"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+
+        </activity>
+  <activity
+            android:name="com.example.eventmanagement.UserEvent">
+
+  </activity>
+        <!--<activity-->
+            <!--android:name="com.example.eventmanagement.Home_Screen">-->
+            <!-- -->
+        <!--</activity>-->
+         <activity
+            android:name="com.example.eventmanagement.SignUpActivity">
+
+         </activity>
+          <activity
+            android:name="com.example.eventmanagement.Admin">
+
+          </activity>
+          <activity
+            android:name="com.example.eventmanagement.CreateEvent">
+
+          </activity>
+          <activity
+            android:name="com.example.eventmanagement.NewEvent">
+
+          </activity>
+           <activity
+            android:name="com.example.eventmanagement.EventDescription">
+
+           </activity>
+
+           <activity
+            android:name="com.example.eventmanagement.ModifyEvent">
+
+           </activity>
+
+        <activity
+            android:name="com.example.eventmanagement.UserEventDescription">
+            
+        </activity>
+               <activity
+            android:name="com.example.eventmanagement.JoinEvent"></activity>
+             <activity
+            android:name="com.example.eventmanagement.ShowUsers"></activity>
+                 <activity
+            android:name="com.example.eventmanagement.Profile"></activity>
+                   <activity
+            android:name="com.example.eventmanagement.UpdateProfile"></activity>
+                      <activity
+            android:name="com.example.eventmanagement.Logout"></activity>
+                          <activity
+            android:name="com.example.eventmanagement.LoginActivity"></activity>
+                             <activity
+            android:name="com.example.eventmanagement.AdminLogout"></activity>
+         
+                              <activity
+            android:name="com.example.eventmanagement.AboutApp"></activity>
+           <activity
+            android:name="com.example.eventmanagement.EventSuggestion"></activity>                   
+            <activity
+            android:name="com.example.eventmanagement.ForgotPassword"></activity> 
+             <activity
+            android:name="com.example.eventmanagement.Gallery"></activity>  
+            <activity
+            android:name="com.example.eventmanagement.AboutSociety"></activity> 
+             <activity
+            android:name="com.example.eventmanagement.SocietyList"></activity>  
+            <activity
+            android:name="com.example.eventmanagement.Scie"></activity>     
+             <activity
+            android:name="com.example.eventmanagement.Sae"></activity>    
+             <activity
+            android:name="com.example.eventmanagement.Iste"></activity>               
+    </application>
+
+</manifest>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gurkaran.eventapp.Home_Screen"
+    >
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/abcz"
+    android:alpha="0.9"/>
+    <TextView
+        android:id="@+id/tv_event"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:padding="12dp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#fff"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/btn_get_started"
+        android:id="@+id/tv_reg"
+        android:text=" "/>
+
+    <Button
+        android:id="@+id/btn_get_started"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/bg_orange_rounded_corners"
+        android:layout_marginTop="30dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:paddingTop="10dp"
+        android:text="Get Started"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/ll_sign_in"
+        android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+        android:id="@+id/ll_sign_in"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="60dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Already Have an Account ?"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff6e11"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:id="@+id/tv_sign"
+            android:padding="5dp"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

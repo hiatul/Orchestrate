@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_app.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\join_event.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\join_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_society.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\about_society.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selected_item.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\selected_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_suggestion.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\event_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timeline.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home__screen.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\activity_home__screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update_profile.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\update_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_display.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\user_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\description.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\users_list.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\users_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sae.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\sae.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_event.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\user_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\iste.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\iste.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\society_list_content.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\society_list_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_event.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\new_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scie.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\scie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\front.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\front.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_event.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\create_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screen_list.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\screen_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\society_list.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\society_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_signup.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\admin_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_results.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\activity_search_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_join_event.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\user_join_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modify_event.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\modify_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_event_description.xml",
+        "source": "C:\\Users\\Gurkaran singh\\AndroidStudioProjects\\Orchestrate\\app\\src\\main\\res\\layout\\user_event_description.xml"
+    }
+]

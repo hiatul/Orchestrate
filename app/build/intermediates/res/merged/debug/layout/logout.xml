@@ -1,0 +1,53 @@
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- The main content view -->
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000">
+        <!-- Add content here -->
+<RelativeLayout
+   android:orientation="vertical" android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   android:background="#000">
+   
+   <Button
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Logout"
+      android:onClick="logout"
+      android:id="@+id/buttonLogout"
+      android:layout_gravity="center_horizontal"
+      android:layout_alignParentTop="true"
+      android:layout_centerHorizontal="true"
+      android:layout_marginTop="100dp"
+      android:background="@drawable/mybutton" />
+      
+   <TextView
+       android:id="@+id/textViewLogout"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentTop="true"
+       android:layout_centerHorizontal="true"
+       android:text="Logout From The Application"
+       android:textColor="#fff"
+       android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>
+</FrameLayout>
+
+    <!-- The navigation drawer -->
+    <ListView android:id="@+id/left_drawer"
+        android:layout_width="260dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="#000"
+        android:dividerHeight="1dp"
+        android:background="#000"/>
+</android.support.v4.widget.DrawerLayout>

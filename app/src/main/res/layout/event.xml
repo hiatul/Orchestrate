@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/textUser"
+			android:text="@string/event_name_display"
+			android:textColor="#fff"
+			android:textStyle="bold"></TextView>
+		<TextView
+			android:layout_height="wrap_content"
+			android:id="@+id/textCreatedAt"
+			android:text="@string/created_on"
+			android:layout_gravity="right"
+			android:gravity="right"
+			android:layout_width="fill_parent"
+			android:textColor="#fff"
+			></TextView>
+	</LinearLayout>
+    <TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/textSociety"
+		android:text="society"
+		android:textColor="#fff"></TextView>
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/textText"
+		android:text="@string/event_desc"
+		android:textColor="#fff"></TextView>
+
+</LinearLayout>

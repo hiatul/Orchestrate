@@ -1,0 +1,110 @@
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- The main content view -->
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000">
+        <!-- Add content here -->
+<ScrollView 
+    android:layout_width="fill_parent" 
+android:layout_height="fill_parent" >
+<LinearLayout  
+android:layout_width="match_parent" 
+android:layout_height="wrap_content"
+android:orientation="vertical" 
+android:paddingBottom="16dp"
+android:paddingTop="16dp"
+android:paddingLeft="16dp"
+android:paddingRight="16dp"
+android:background="#000">
+<EditText 
+android:id="@+id/editTextEventName" 
+android:hint="@string/EventName" 
+android:layout_width="match_parent"
+ android:layout_height="wrap_content"
+ android:inputType="textCapSentences"
+    android:textColor="#fff">
+  <requestFocus /> 
+  </EditText>
+  <EditText android:id="@+id/editDescription" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:hint="@string/Description"
+      android:inputType="textCapSentences"
+      android:textColor="#fff"/>
+       <EditText 
+      android:id="@+id/editTextShortDescription" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:hint="@string/ShortDescription"
+      android:inputType="textShortMessage"
+           android:textColor="#fff"/>
+      <Spinner
+      android:id="@+id/societySpin"
+      android:layout_width="fill_parent"
+      android:layout_height="50dp" />
+       
+      <EditText android:id="@+id/editTextDate" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:hint="@string/Date" 
+      android:inputType="date"
+          android:textColor="#fff"/>
+       
+        <EditText android:id="@+id/editTextVenue" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:hint="@string/Venue"
+      android:inputType="textCapSentences"
+            android:textColor="#fff"/>
+      
+      <EditText android:id="@+id/editTextPrize" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:hint="@string/Prize" 
+      android:inputType="textCapSentences"
+          android:textColor="#fff" />
+
+       <EditText android:id="@+id/editTextOrganizer" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:hint="@string/Organizer"
+      android:inputType="textCapSentences"
+           android:textColor="#fff"/>
+      
+       <EditText android:id="@+id/editTextContacts" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:hint="@string/contacts" 
+      android:inputType="phone"
+           android:textColor="#fff"
+      /> 
+      
+ 
+  <Button 
+      android:id="@+id/buttonCreateEvent" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content" 
+      android:text="@string/Modify_Event" 
+      android:layout_marginBottom="60dp"
+      android:background="@drawable/mybutton" /> 
+  
+  </LinearLayout></ScrollView>
+   </FrameLayout>
+
+    <!-- The navigation drawer -->
+    <ListView android:id="@+id/left_drawer"
+        android:layout_width="260dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="#000"
+        android:dividerHeight="1dp"
+        android:background="#000"/>
+</android.support.v4.widget.DrawerLayout>

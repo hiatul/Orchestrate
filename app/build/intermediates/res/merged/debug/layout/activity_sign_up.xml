@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    tools:context="com.gurkaran.eventapp.SignUp">
+
+    <LinearLayout
+        android:id="@+id/ll_sign_up"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_back"
+            android:id="@+id/iv_back"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Almost There!"
+            android:textColor="#ff6e11"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_sign_up"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/editTextUserName"
+            android:hint="Username"
+            android:textColorHint="#7effffff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapSentences"
+            android:textColor="#fff"
+            android:textSize="18sp"/>
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:popupBackground="#000"/>
+
+
+        <EditText android:id="@+id/editTextEmail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:textColorHint="#7effffff"
+            android:inputType="textEmailAddress"
+            android:textColor="#fff"
+            android:textSize="18sp"/>
+
+        <EditText android:id="@+id/editTextPhone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone"
+            android:textColorHint="#7effffff"
+            android:inputType="phone"
+            android:textColor="#fff"
+            android:textSize="18sp"/>
+
+        <EditText android:id="@+id/editTextPassword"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:textColorHint="#7effffff"
+            android:inputType="textPassword"
+            android:textColor="#fff"
+            android:textSize="18sp"/>
+
+        <EditText
+            android:id="@+id/editTextConfirmPassword"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="ConfirmPassword"
+            android:textColorHint="#7effffff"
+            android:inputType="textPassword"
+            android:textColor="#fff"
+            android:textSize="18sp"/>
+
+        <RadioGroup
+            android:id="@+id/radioGender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"  android:padding="5dp"          >
+            <RadioButton
+                android:id="@+id/radioButton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text=" Male"
+                android:checked="true"
+                android:textSize="18sp"
+                android:textColor="#fff"
+                android:buttonTint="#fff"/>
+            <RadioButton
+                android:id="@+id/radioButton1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text=" Female"
+                android:textColor="#fff"
+                android:buttonTint="#fff"
+                android:textSize="18sp"/>
+        </RadioGroup>
+
+
+        <Button
+            android:id="@+id/btn_sign_up"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/bg_orange_rounded_corners"
+            android:paddingBottom="6dp"
+            android:gravity="center"
+            android:paddingTop="6dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:text="Sign up"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"/>
+
+
+
+        <LinearLayout
+            android:id="@+id/ll_sign_in"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:text="ALREADY HAVE AN ACCOUNT "
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:text=" SIGN IN"
+                android:textColor="#ff6e11"
+                android:textSize="14sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
+
+
